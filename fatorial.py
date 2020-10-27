@@ -1,3 +1,4 @@
+###FATORIAL!
 n = int(input())
 
 # f = 1
@@ -18,3 +19,5 @@ def fatorial(n):
     return n*fatorial(n-1)
 
 print(fatorial(n))
+
+###FORMULA: N * (N-1) * (N-2) * ... * 1
