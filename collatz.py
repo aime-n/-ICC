@@ -1,3 +1,5 @@
+###VAMOS PROGRAMAR!!
+
 x = int(input())
 # l = str(x)
 # while x != 1:
@@ -20,3 +22,5 @@ def collatz(x):
     return collatz(int(x))
 
 print(collatz(x))
+
+### TERMINAMOS
