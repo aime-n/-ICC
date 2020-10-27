@@ -1,10 +1,10 @@
-n = int(input())
-dict = []
+n = int(input())   ###O número dado
+dict = []          ### Criando um dic 
 for i in range(0,n):
     dict.append(str(input().strip()))
 word = input()
 
-letras1 = []
+letras1 = [] ###Uma lista de letras
 count1 = 0
 for i in range(len(word)):
     letras1.append(word[i])
