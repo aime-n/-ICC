@@ -20,3 +20,5 @@ def collatz(x):
     return collatz(int(x))
 
 print(collatz(x))
+#Grande 
+#Aimê
