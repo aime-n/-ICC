@@ -18,3 +18,5 @@ def fatorial(n):
     return n*fatorial(n-1)
 
 print(fatorial(n))
+
+# O tal do fatorial
