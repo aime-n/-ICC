@@ -22,3 +22,4 @@ else:
         print('NAO CONVEXO')
     else:
         print('CONVEXO')
+# E esse é o código do convexo
