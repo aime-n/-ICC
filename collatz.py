@@ -1,4 +1,5 @@
 x = int(input())
+# teste
 # l = str(x)
 # while x != 1:
 #     if x % 2 == 0:
