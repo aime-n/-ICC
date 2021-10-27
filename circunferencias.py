@@ -1,4 +1,6 @@
 n,r = list(map(int,input().split()))
+# Eternal sunshine of the spotless mind
+
 
 def diam(n):
     if n == 1:
