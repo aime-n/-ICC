@@ -13,3 +13,6 @@ try:
         print("Digite um número positivo.")
 except:
     print("Digite um número inteiro.")
+
+# função tosca
+    
