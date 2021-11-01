@@ -41,3 +41,5 @@ if flag:
     print("S")
 else:
     print("N")
+
+    # oi
